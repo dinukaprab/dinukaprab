@@ -25,6 +25,21 @@
 ![Git](https://img.shields.io/badge/Tool-Git-orange?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Tool-Figma-red?style=for-the-badge&logo=figma)
 
+-----
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalanadidulanga&label=Profile%20views&color=0e75b6&style=flat" alt="kalanadidulanga" /> </p>
+
+- :mortar_board: I am a `Junior`
+- :desktop_computer: Passionate about leveraging Software to tackle real-world `Problems`.
+- :computer: Active competitive programmer on `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, and `Google Contests`.
+- :student: Currently delving into `Full Stack Software Engineering`.
+- :brain: Always `Exploring new technologies`.
+- :star2: You can visit [portfolio](https://dinukaprab.com).
+- :email: How to reach me **dinukaprab@gmail.com**
+- :tada: Fun fact **Dinuka prabath**
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Contact Me On</h3>
@@ -38,8 +53,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
------
 
 Credits: [Dinuka Prabath](https://github.com/dinukaprab)
 
