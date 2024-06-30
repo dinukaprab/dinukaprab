@@ -27,8 +27,6 @@
 
 -----
 
-<br>
-
 - :mortar_board: I am a `Junior` software developer
 - :desktop_computer: Passionate about leveraging Software to tackle real-world `Problems`.
 - :computer: Active competitive programmer on `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, and `Google Contests`.
@@ -37,8 +35,6 @@
 - :star2: You can visit my [portfolio](https://dinukaprab.com).
 - :email: How to reach me **dinukaprab@gmail.com**
 - :tada: Fun fact **Dinuka prabath**
-
-<br/>
 
 ----
 
