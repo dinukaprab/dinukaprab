@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://github.com/dinukaprab">
-   <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinukaprab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinukaprab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinukaprab&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
