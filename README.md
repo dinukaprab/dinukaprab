@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100087684162623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://wa.me/+94762200748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://www.x.com/dinukaprab" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/16/X.com_logo.png" alt="X" height="30" width="40" /></a>
+<a href="https://www.x.com/dinukaprab" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/x-social-media-logo-icon.svg" alt="X" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dinukaprab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:dinukaprab@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="35" /></a>
