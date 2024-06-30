@@ -41,9 +41,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/dinukaprab" style="display:flex;">
-   <img height="180em" width="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinukaprab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" width="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinukaprab&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/dinukaprab">
+   <img height="180em" width="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinukaprab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" width="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinukaprab&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
