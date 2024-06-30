@@ -37,7 +37,9 @@
 <a href="mailto:dinukaprab@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="35" /></a>
 </p>
 
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-----
+
+Credits: [Dinuka Prabath](https://github.com/dinukaprab)
+Last Edited on: 30/06/2024
