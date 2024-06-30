@@ -8,23 +8,20 @@
 
 ## 🛠️ Skills
 
-- **Languages**: Html, CSS, JavaScript, Java, Python, PHP
-- **Frameworks**: React js, Node.js, Next js
-- **Tools**: VS Code, Git Hub, Git, Figma
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Languages
-![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/Code-PHP-purple?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java)
+![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Code-PHP-purple?style=for-the-badge&logo=php)
 
 ## Frameworks
-![React](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js)
+![](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js)
 
 ## Tools
 ![VS Code](https://img.shields.io/badge/Tool-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
