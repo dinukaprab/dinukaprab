@@ -11,22 +11,23 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Languages
-![](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
-![](https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3)
-![](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java)
-![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Code-PHP-purple?style=for-the-badge&logo=php)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 
 ## Frameworks
-![](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
 ## Tools
-![VS Code](https://img.shields.io/badge/Tool-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/Tool-GitHub-black?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/Tool-Git-orange?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Tool-Figma-red?style=for-the-badge&logo=figma)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
