@@ -41,7 +41,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?dinukaprab=yourusername&show_icons=true&theme=radical)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dinukaprab&show_icons=true&theme=radical)
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
