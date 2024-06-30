@@ -40,11 +40,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/dinukaprab">
-    <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinukaprab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinukaprab&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<p align="center">
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?dinukaprab=yourusername&show_icons=true&theme=radical)
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
