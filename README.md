@@ -50,7 +50,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinukaprab&theme=algolia" alt="GitHub Streak" />
 </p>
-
 </a>
 </p>
 
