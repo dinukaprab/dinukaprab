@@ -5,6 +5,7 @@
 <h3 align="center">Full Stack Software Developer specializing in creating intuitive and dynamic digital solutions. Check out my portfolio to see the intersection of creativity and technical expertise in action.</h3>
 
 ---
+### 🛠️ Skills
 
 ## Languages
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
@@ -62,7 +63,6 @@
 <a href="https://www.x.com/dinukaprab" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/x-icon.svg" alt="X" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dinukaprab" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:dinukaprab@gmail.com" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/gmail.svg" alt="Email" height="40" width="35" /></a>
 </p>
 
 <img src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/line.gif">
