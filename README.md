@@ -46,7 +46,7 @@
    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinukaprab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinukaprab&layout=compact&langs_count=8&theme=algolia"/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinukaprab&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=dinukaprab&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" /> -->
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinukaprab&theme=algolia" alt="GitHub Streak" />
