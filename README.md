@@ -1,11 +1,10 @@
-<img src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/line.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dinukaprab&label=Profile%20views&color=brightgreen&style=flat" alt="dinukaprab" /></p>
-<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/coding-freak.gif" /></p>
+<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /></p>
 <h1 align="center">Hi 👋, I'm Dinuka Prabath</h1>
 <h3 align="center">Full Stack Software Developer specializing in creating intuitive and dynamic digital solutions. Check out my portfolio to see the intersection of creativity and technical expertise in action.</h3>
 
 ---
-### 🛠️ Skills
 
 ## Languages
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
@@ -49,23 +48,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dinukaprab&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/dinukaprab=ryo-ma" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinukaprab&theme=algolia" alt="GitHub Streak" />
 </p>
 </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/dinukaprab=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/line.gif">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Contact Me On</h3>
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100087684162623" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://wa.me/+94762200748" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://www.x.com/dinukaprab" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/x-icon.svg" alt="X" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dinukaprab" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087684162623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://wa.me/+94762200748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://www.x.com/dinukaprab" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/x-social-media-logo-icon.svg" alt="X" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dinukaprab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:dinukaprab@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="35" /></a>
 </p>
 
-<img src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/line.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Credits: [Dinuka Prabath](https://github.com/dinukaprab)
 
