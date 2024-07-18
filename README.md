@@ -53,7 +53,7 @@
 </p>
 </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?dinukaprab=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/dinukaprab=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/line.gif">
 
 <h3 align="center">Contact Me On</h3>
