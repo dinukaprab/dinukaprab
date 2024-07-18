@@ -49,7 +49,7 @@
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=dinukaprab&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" /> -->
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinukaprab&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/dinukaprab=ryo-ma" alt="GitHub Streak" />
 </p>
 </a>
 </p>
