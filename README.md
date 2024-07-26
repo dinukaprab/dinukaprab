@@ -57,7 +57,7 @@
 
 <h3 align="center">Contact Me On</h3>
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100087684162623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://https://www.facebook.com/dinukaprab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://wa.me/+94762200748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://www.x.com/dinukaprab" target="blank"><img align="center" src="https://github.com/dinukaprab/dinukaprab/blob/main/assets/x-icon.svg" alt="X" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dinukaprab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
